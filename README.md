@@ -7,4 +7,4 @@ Build your first custom recovery from TeamWin Recovery Project.
 # SPDX-License-Identifier: Apache-2.0
 ```
 ## Credits
--[cd-Crypton](https://github.com/cd-Crypton) who made this tree and wrote nearly all the code
+- [cd-Crypton](https://github.com/cd-Crypton) who made this tree and wrote nearly all the code
