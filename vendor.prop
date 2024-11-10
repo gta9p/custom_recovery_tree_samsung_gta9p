@@ -1,0 +1,13 @@
+# Crypto
+ro.crypto.dm_default_key.options_format.version=2
+ro.crypto.metadata_init_delete_all_keys.enabled=false
+ro.crypto.volume.metadata.method=dm-default-key
+ro.hardware.gatekeeper=mdfpp
+ro.hardware.keystore=mdfpp
+ro.security.keystore.keytype=sakv2,gak
+
+# FUSE passthrough
+persist.sys.fuse.passthrough.enable=true
+
+# USB
+vendor.usb.use_ffs_mtp=1
